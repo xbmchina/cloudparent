@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-eureka-sever/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

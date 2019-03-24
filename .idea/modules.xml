@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" filepath="$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudparent.iml" filepath="$PROJECT_DIR$/cloudparent.iml" />
     </modules>
