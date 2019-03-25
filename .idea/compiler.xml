@@ -6,15 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-client" />
+        <module name="cloud-config-server" />
         <module name="cloud-eureka-client" />
+        <module name="cloud-eureka-client02" />
         <module name="cloud-eureka-sever" />
+        <module name="cloud-service-fegin" />
+        <module name="cloud-service-ribbon" />
+        <module name="cloud-service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-config-client" target="1.8" />
+      <module name="cloud-config-server" target="1.8" />
       <module name="cloud-eureka-client" target="1.8" />
+      <module name="cloud-eureka-client02" target="1.8" />
       <module name="cloud-eureka-sever" target="1.8" />
+      <module name="cloud-service-fegin" target="1.8" />
+      <module name="cloud-service-ribbon" target="1.8" />
+      <module name="cloud-service-zuul" target="1.8" />
       <module name="cloudeurekaserver" target="1.8" />
       <module name="cloudparent" target="1.8" />
+      <module name="config-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
