@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consul-consumer/cloud-consul-consumer.iml" filepath="$PROJECT_DIR$/cloud-consul-consumer/cloud-consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consul-producer/cloud-consul-producer.iml" filepath="$PROJECT_DIR$/cloud-consul-producer/cloud-consul-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client02/cloud-eureka-client02.iml" filepath="$PROJECT_DIR$/cloud-eureka-client02/cloud-eureka-client02.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" filepath="$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" />

@@ -21,7 +21,7 @@ public class CloudEurekaClientApplication {
 	String port;
 
 	@RequestMapping("/hi")
-	public String home(@RequestParam(value = "name", defaultValue = "forezp") String name) {
+	public String home(@RequestParam(value = "name", defaultValue = "zero") String name) {
 		return "hi " + name + " ,i am from port:" + port;
 	}
 }

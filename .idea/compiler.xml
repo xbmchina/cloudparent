@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-config-client" />
         <module name="cloud-config-server" />
+        <module name="cloud-consul-consumer" />
+        <module name="cloud-consul-producer" />
         <module name="cloud-eureka-client" />
         <module name="cloud-eureka-client02" />
         <module name="cloud-eureka-sever" />
@@ -19,6 +21,9 @@
     <bytecodeTargetLevel>
       <module name="cloud-config-client" target="1.8" />
       <module name="cloud-config-server" target="1.8" />
+      <module name="cloud-consul-client" target="1.8" />
+      <module name="cloud-consul-consumer" target="1.8" />
+      <module name="cloud-consul-producer" target="1.8" />
       <module name="cloud-eureka-client" target="1.8" />
       <module name="cloud-eureka-client02" target="1.8" />
       <module name="cloud-eureka-sever" target="1.8" />
