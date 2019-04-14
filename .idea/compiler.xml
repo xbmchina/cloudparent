@@ -13,6 +13,7 @@
         <module name="cloud-eureka-client" />
         <module name="cloud-eureka-client02" />
         <module name="cloud-eureka-sever" />
+        <module name="cloud-gateway-learn1" />
         <module name="cloud-service-fegin" />
         <module name="cloud-service-ribbon" />
         <module name="cloud-service-zuul" />
@@ -30,6 +31,7 @@
       <module name="cloud-eureka-client" target="1.8" />
       <module name="cloud-eureka-client02" target="1.8" />
       <module name="cloud-eureka-sever" target="1.8" />
+      <module name="cloud-gateway-learn1" target="1.8" />
       <module name="cloud-service-fegin" target="1.8" />
       <module name="cloud-service-ribbon" target="1.8" />
       <module name="cloud-service-zuul" target="1.8" />

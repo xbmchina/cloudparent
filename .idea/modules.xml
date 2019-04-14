@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client02/cloud-eureka-client02.iml" filepath="$PROJECT_DIR$/cloud-eureka-client02/cloud-eureka-client02.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" filepath="$PROJECT_DIR$/cloud-eureka-sever/cloud-eureka-sever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway-learn1/cloud-gateway-learn1.iml" filepath="$PROJECT_DIR$/cloud-gateway-learn1/cloud-gateway-learn1.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service-fegin/cloud-service-fegin.iml" filepath="$PROJECT_DIR$/cloud-service-fegin/cloud-service-fegin.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service-ribbon/cloud-service-ribbon.iml" filepath="$PROJECT_DIR$/cloud-service-ribbon/cloud-service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" filepath="$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" />

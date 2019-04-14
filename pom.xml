@@ -22,6 +22,7 @@
         <module>cloud-eureka-client</module>
         <module>cloud-zipkin-service</module>
         <module>cloud-zipkip-service2</module>
+        <module>cloud-gateway-learn1</module>
     </modules>
 
 
