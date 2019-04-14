@@ -20,6 +20,8 @@
     <modules>
         <module>cloud-eureka-sever</module>
         <module>cloud-eureka-client</module>
+        <module>cloud-zipkin-service</module>
+        <module>cloud-zipkip-service2</module>
     </modules>
 
 

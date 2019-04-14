@@ -5,7 +5,6 @@
     <file url="file://$PROJECT_DIR$/cloud-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-consul-consumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud-consul-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-consul-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka-client02" charset="UTF-8" />
@@ -13,6 +12,8 @@
     <file url="file://$PROJECT_DIR$/cloud-service-fegin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-service-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-zipkin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-zipkip-service2" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -16,6 +16,9 @@
         <module name="cloud-service-fegin" />
         <module name="cloud-service-ribbon" />
         <module name="cloud-service-zuul" />
+        <module name="cloud-zipkin-server" />
+        <module name="cloud-zipkin-service" />
+        <module name="cloud-zipkip-service2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +33,9 @@
       <module name="cloud-service-fegin" target="1.8" />
       <module name="cloud-service-ribbon" target="1.8" />
       <module name="cloud-service-zuul" target="1.8" />
+      <module name="cloud-zipkin-server" target="1.8" />
+      <module name="cloud-zipkin-service" target="1.8" />
+      <module name="cloud-zipkip-service2" target="1.8" />
       <module name="cloudeurekaserver" target="1.8" />
       <module name="cloudparent" target="1.8" />
       <module name="config-client" target="1.8" />

@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-service-fegin/cloud-service-fegin.iml" filepath="$PROJECT_DIR$/cloud-service-fegin/cloud-service-fegin.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service-ribbon/cloud-service-ribbon.iml" filepath="$PROJECT_DIR$/cloud-service-ribbon/cloud-service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" filepath="$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zipkin-service/cloud-zipkin-service.iml" filepath="$PROJECT_DIR$/cloud-zipkin-service/cloud-zipkin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zipkip-service2/cloud-zipkip-service2.iml" filepath="$PROJECT_DIR$/cloud-zipkip-service2/cloud-zipkip-service2.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudparent.iml" filepath="$PROJECT_DIR$/cloudparent.iml" />
     </modules>
   </component>
