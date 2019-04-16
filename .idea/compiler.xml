@@ -14,12 +14,21 @@
         <module name="cloud-eureka-client02" />
         <module name="cloud-eureka-sever" />
         <module name="cloud-gateway-learn1" />
+        <module name="cloud-gateway-learn2" />
+        <module name="cloud-gateway-learn3" />
+        <module name="cloud-gateway-server" />
         <module name="cloud-service-fegin" />
         <module name="cloud-service-ribbon" />
         <module name="cloud-service-zuul" />
         <module name="cloud-zipkin-server" />
         <module name="cloud-zipkin-service" />
         <module name="cloud-zipkip-service2" />
+      </profile>
+      <profile name="Annotation profile for cloud-parent" enabled="true">
+        <sourceOutputDir name="../cloud-gateway-server/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../cloud-gateway-server/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-gateway-learn4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +41,10 @@
       <module name="cloud-eureka-client02" target="1.8" />
       <module name="cloud-eureka-sever" target="1.8" />
       <module name="cloud-gateway-learn1" target="1.8" />
+      <module name="cloud-gateway-learn2" target="1.8" />
+      <module name="cloud-gateway-learn3" target="1.8" />
+      <module name="cloud-gateway-learn4" target="1.8" />
+      <module name="cloud-gateway-server" target="1.8" />
       <module name="cloud-service-fegin" target="1.8" />
       <module name="cloud-service-ribbon" target="1.8" />
       <module name="cloud-service-zuul" target="1.8" />
